@@ -5,7 +5,7 @@ This project demonstrates a simple script to automate the export of multiple png
 
 The script BatchRender.jsx uses the data from Data.csv to create PNG-files with different text.
 
-##Usage:
+## Usage:
 
 1. Open the .psd file in Adobe Photoshop
 2. Go to Select > Scripts > Browse.. and select the .jsx file from the project folder
